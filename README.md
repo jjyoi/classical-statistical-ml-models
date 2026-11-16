@@ -1,9 +1,7 @@
 # Machine Learning Notes
-A collection of machine learning models / examples I’ve built while learning
-classical machine learning and neural networks.
+A collection of machine learning models / examples I’ve built while learning classical machine learning and neural networks.
 
-Each example includes a practical use case, a baseline implementation, and
-notes on model selection and tuning.
+Each example includes a practical use case, a baseline implementation, and notes on model selection and tuning.
 
 ## Classical machine learning
 - **Support vector machines**
