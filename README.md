@@ -7,6 +7,10 @@ Each example includes a practical use case, a baseline implementation, and notes
 - **Support vector machines**
   - Linear SVC: spam classification using TF-IDF
   - SVR: house price regression using house size and number of bedrooms
+- **Naive Bayes**
+  - Gaussian Naive Bayes: Iris species classification with variance smoothing tuned via cross-validation.
+- **K-nearest neighbours**
+  - KNN classifier: Iris species classification with feature scaling and grid search over neighbour count and voting weights.
 
 ## Neural networks
 - WIP!
