@@ -40,8 +40,7 @@ Macro F1: compute F1 separately for each class and avg them. If two classes have
 
 #### predicting mask / predicting a count
 **REVIEW IN MORE DETAIL IF THERE'S TIME!!**
-**IoU/Dice**: measure mask overlap \
-**Count MAE**: measures how many objects you missed or overcounted \
+**IoU/Dice**: measure mask overlap 
 If your predicted mask has 8 pixels, the true mask has 10, and 6 overlap, IoU = 6/12 = 0.50 and Dice = 2×6/(8+10) ≈ 0.67. Both measure where you predicted correctly.\
 Count MAE ignores location and averages the absolute difference between predicted and true counts. Predicting 8 birds when there are 10 gives a count error of 2.
 
